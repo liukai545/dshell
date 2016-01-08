@@ -6,3 +6,5 @@
 增加了参数-container_files 和 -container_archives 用来向每一个container中传输java执行所需的文件和目录。
 
 删除参数-num_containers并且指定为1.
+
+Scala实现介绍[Running scala programs on YARN](http://blog.madhukaraphatak.com/running-scala-programs-on-yarn/)
