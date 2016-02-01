@@ -7,4 +7,9 @@
 
 删除参数-num_containers并且指定为1.
 
+------------------------
+
 Scala实现介绍[Running scala programs on YARN](http://blog.madhukaraphatak.com/running-scala-programs-on-yarn/)
+
+run command :
+``hadoop jar <jar-path>  com.yarn.inscala.Client hdfs://<namenode-host:namenode-port>/jars/yarn-helloworld-scala-1.0-SNAPSHOT.jar 1``
